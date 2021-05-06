@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #E8E8E8;
+}
+header div{
+    width: 45px;
+    height: 45px;
+    background-color: transparent;
+    margin: 15px 15px 15px 40px;
+    text-align: center;
+    
+}
+
+li{
+    list-style: none;
+    margin: 15px 15px 15px 15px;
+    
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+     font-size: 25px;
+    
+}
+.botones{
+    font-family: monospace;
+    font-size: 17px;
+    padding-top: 11px;
+}
+.boton{
+    text-decoration: none;
+    padding: 55px;
+    padding: auto;
+    padding: 0px 20px 0px 20px;
+    color: #fff;
+}
+.google{
+    background-color: #FF4033;
+}
+.drive{
+    background-color: #FBBF00;
+}
+.gmail{
+    background-color: #00AB49;
+}
+.classroom{
+    background-color: 0085FB;
+}
+.calendar{
+    background-color: #666666;
+}
