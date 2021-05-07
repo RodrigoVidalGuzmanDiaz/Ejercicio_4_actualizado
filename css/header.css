@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 header{
     display: flex;
@@ -37,13 +38,13 @@ ul{
 }
 .boton{
     text-decoration: none;
-    padding: 55px;
-    padding: auto;
-    padding: 0px 20px 0px 20px;
+    
+    padding: 10px 20px 10px 20px;
     color: #fff;
 }
 .google{
     background-color: #FF4033;
+    
 }
 .drive{
     background-color: #FBBF00;
